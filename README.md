@@ -5,14 +5,14 @@ Boilerplate back node js/express/sequelize
 . We initialize the Node.js App with a package.json file:
 npm init
 
-name: (nodejs-express-sequelize-mysql) 
+name: my_boilerplate_back
 version: (1.0.0) 
-description: Node.js Rest Apis with Express, Sequelize & MySQL.
-entry point: (index.js) server.js
+description: Node.js with Express, Sequelize & MySQL.
+entry point: (index.js)
 test command: 
 git repository: 
-keywords: nodejs, express, sequelize, mysql, rest, api
-author: bezkoder
+keywords: nodejs, express, sequelize, mysql
+author: 0ruj
 license: (ISC)
 
 Is this ok? (yes) yes
